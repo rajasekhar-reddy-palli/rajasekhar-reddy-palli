@@ -6,7 +6,8 @@ I am a **Data Engineer** with over 10+ years of experience working with **AWS**,
 ---
 
 ### 💼 **Professional Summary**
-- 🌍 Based in **Hyderabad, India** | Actively looking for **remote Data Engineering** roles.
+
+- 🌍 Based in **Hyderabad, India** | Actively looking for **Remote Data Engineering** roles.
 - 🚀 Strong background in **Data Engineering**, **Cloud Solutions**, and **Big Data**.
 - 🔧 Skilled in **AWS**(Glue, EMR, Redshift, Lambda, Step Functions, S3, EC2, ECS, Cloud Formation, SAM, EventBridge and IAM), **GCP**(BigQuery, DataFlow, Dataproc, GCS, Pub/Sub, CloudRun, CloudBatch, Workflows and DeploymentManager), **Terraform**, **Airflow**, **Snowflake**, **SQL**,  **Python**, and **Talend**.
 - 🌐 Passionate about building **automated data pipelines** and implementing **DevOps** in cloud environments.
