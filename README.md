@@ -1,7 +1,7 @@
 # Palli Rajasekhar Reddy 👋
 ### Senior Data Engineer | AWS, GCP, Big Data, DevOps | 10+ Years of Experience
 
-I am a **Data Engineer** with over 10+ years of experience working with **AWS**, **Google Cloud Platform (GCP)**, **Big Data**, and **DevOps**. My expertise spans cloud data solutions, automation, and infrastructure as code.
+I am a **Data Engineer** with over 11+ years of experience working with **AWS**, **Google Cloud Platform (GCP)**, **Big Data**, and **DevOps**. My expertise spans cloud data solutions, automation, and infrastructure as code.
 
 ---
 
